@@ -1,0 +1,5 @@
+/.idea
+/.history
+/node_modules
+/vendor
+.DS_Store

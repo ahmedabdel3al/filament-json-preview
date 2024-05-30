@@ -1,0 +1,58 @@
+{
+    "name": "ahmedabdelaal/filament-json-preview",
+    "description": "Preview Json In Formatted Way",
+    "license": "MIT",
+    "keywords": [
+        "filament",
+        "laravel",
+        "entry",
+        "field",
+        "json",
+        "filament-json-preview"
+    ],
+    "homepage": "https://github.com/ahmedabdelaal/filament-json-preview",
+    "support": {
+        "issues": "https://github.com/ahmedabdelaal/filament-json-preview/issues",
+        "source": "https://github.com/ahmedabdelaal/filament-json-preview"
+    },
+    "autoload": {
+        "psr-4": {
+            "AhmedAbdelaal\\FilamentJsonPreview\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Abdelaal",
+            "email": "ahmedabdelaal1921@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1|^8.2",
+        "filament/filament": "^3.0",
+        "filament/forms": "^3.0",
+        "spatie/laravel-package-tools": "^1.15.0",
+        "illuminate/contracts": "^10.0|^11.0"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.0",
+        "nunomaduro/collision": "^7.9|^8.1",
+        "phpstan/extension-installer": "^1.1"
+    },
+    "scripts": {
+        "format": "vendor/bin/pint"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AhmedAbdelaal\\FilamentJsonPreview\\FilamentJsonPreviewServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}

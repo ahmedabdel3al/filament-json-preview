@@ -1,0 +1,17 @@
+{
+  "node_modules/jsoneditor/dist/img/jsoneditor-icons.svg": {
+    "file": "jsoneditor-icons.svg",
+    "src": "node_modules/jsoneditor/dist/img/jsoneditor-icons.svg"
+  },
+  "resources/css/app.css": {
+    "file": "app.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "app2.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}

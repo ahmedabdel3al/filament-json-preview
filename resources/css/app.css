@@ -1,0 +1,52 @@
+@import 'jsoneditor/dist/jsoneditor.css';
+
+
+.jsoneditor-menu > button, .jsoneditor-menu > .jsoneditor-modes > button {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+.jsoneditor-contextmenu .jsoneditor-menu li button .jsoneditor-expand {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+.jsoneditor-contextmenu .jsoneditor-icon {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+div.jsoneditor-tree button.jsoneditor-button {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+div.jsoneditor-tree button.jsoneditor-dragarea {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+
+div.jsoneditor-tree .jsoneditor-button.jsoneditor-schema-error {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+.jsoneditor-text-errors tr .jsoneditor-schema-error {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+
+.jsoneditor-text-errors tr.parse-error .jsoneditor-schema-error {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+.jsoneditor-menu > .jsoneditor-modes > button {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+.jsoneditor-statusbar > .jsoneditor-validation-error-icon {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+.jsoneditor-statusbar > .jsoneditor-parse-error-icon {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
+
+.jsoneditor-search button {
+    background-image: url(/jsoneditor/jsoneditor-icons.svg) !important;
+}
