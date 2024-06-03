@@ -5,6 +5,8 @@ https://github.com/josdejong/jsoneditor
 
 ## Installation
 
+![img.png](https://raw.githubusercontent.com/ahmedabdel3al/filament-json-preview/main/images/img.png)
+
 You can install the package via composer:
 
 ```bash
@@ -53,17 +55,17 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 <div class="filam![img_1.png](img_1.png)ent-hidden">
     <h2>default</h2>
-    <img src="images/collapse.png" alt="Screenshot"/>
+    <img src="https://raw.githubusercontent.com/ahmedabdel3al/filament-json-preview/main/images/collapse.png" alt="Screenshot"/>
 </div>
 
 <div class="filam![img_1.png](img_1.png)ent-hidden">
     <h2>search</h2>
-    <img src="images/search.png" alt="Screenshot"/>
+    <img src="https://raw.githubusercontent.com/ahmedabdel3al/filament-json-preview/main/images/search.png" alt="Screenshot"/>
 </div>
 
 <div class="filam![img_1.png](img_1.png)ent-hidden">
     <h2>navigation bar</h2>
-    <img src="images/navigationbar.png" alt="Screenshot"/>
+    <img src="https://raw.githubusercontent.com/ahmedabdel3al/filament-json-preview/main/images/navigationbar.png" alt="Screenshot"/>
 </div>
 
 
